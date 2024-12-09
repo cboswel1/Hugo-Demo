@@ -1,4 +1,4 @@
 baseURL = 'https://cboswel1.github.io/hugo-demo/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Hugo Site'
 theme = 'ananke'
